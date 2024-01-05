@@ -35,7 +35,9 @@ const footer = () => {
 
           <div className="col-span-4">
             {/* <img src={"/assets/logo/Logo2.svg"} alt="logo" className="pb-4" /> */}
-            <h1 className="text-2xl font-black pb-4 text-white">Prabha Cleaning Works</h1>
+            <h1 className="text-2xl font-black pb-4 text-white">
+              Prabha Cleaning Works
+            </h1>
             <h3 className="text-white text-lg font-medium leading-9 mb-4 lg:mb-20">
               We have an excellent track record of being one of the
               best-integrated deep home cleaning services.
@@ -149,7 +151,7 @@ const footer = () => {
 
       <div className="pb-24 px-4">
         <h3 className="text-center text-offwhite">
-          @2023 - All Rights Reserved by{" "}
+          @2024-25 - All Rights Reserved by{" "}
           <Link href="/" target="_blank">
             {" "}
             Prabha Home Cleaning Works.

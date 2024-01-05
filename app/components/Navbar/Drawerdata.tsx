@@ -44,9 +44,23 @@ const Data = () => {
             ))}
             {/* <Contactus /> */}
             <div className="mt-4"></div>
-            {/* <button className="bg-white w-full hover:bg-purple hover:text-white text-black border border-purple font-medium py-2 px-4 rounded">
-              Sign In
-            </button> */}
+            <h1 className="text-xl font-bold ">To book our services</h1>
+            <button className="bg-white w-full hover:bg-purple hover:text-white text-black border border-purple font-medium py-2 px-4 rounded">
+              <a
+                href="tel:+917200747649"
+                className="text-black text-sm font-normal mb-6 "
+              >
+                Call Us
+              </a>
+            </button>
+            <button className="bg-white w-full hover:bg-purple hover:text-white text-black border border-purple font-medium py-2 px-4 rounded">
+              <a
+                href="mailto:prabhaparish@gmail.com"
+                className="text-black text-sm font-normal mb-6 "
+              >
+                Email Us
+              </a>
+            </button>
           </div>
         </div>
       </div>
